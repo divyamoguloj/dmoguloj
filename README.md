@@ -1,0 +1,2 @@
+# dmoguloj
+AI project 
